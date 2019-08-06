@@ -1,0 +1,29 @@
+{
+  "name": "express-crash-course",
+  "version": "1.0.0",
+  "description": "Express is a fast, unopinionated and minimalist web framework for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ppeelman/express-crash-course.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ppeelman/express-crash-course/issues"
+  },
+  "homepage": "https://github.com/ppeelman/express-crash-course#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "moment": "^2.24.0",
+    "uuid": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}

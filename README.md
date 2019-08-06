@@ -90,3 +90,9 @@ Documentation: https://expressjs.com/en/4x/api.html#express.router
 ## Read body of a request
 
 Documentation: https://expressjs.com/en/4x/api.html#req.body
+
+## Template engine
+
+Express-handlebars: https://www.npmjs.com/package/express-handlebars
+
+Server-side rendering using template engines
